@@ -1,0 +1,15 @@
+<?php 
+
+$page_title = "Suggest A Media";
+$section = 'suggest';
+include 'inc/header.php'; 
+
+?>
+
+
+<div class="section page">
+	<h1>Suggest A Media</h1>
+</div>
+
+
+<?php include 'inc/footer.php'; ?>
